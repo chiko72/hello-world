@@ -29,7 +29,7 @@ public class TestClass {
 //>>>>>>> branch 'master' of https://github.com/chiko72/hello-world.git
         
 		System.out.println("modif dans classe 1 , alors que branche2 modifie classe2");
-
+        System.out.println("pour tager");
 	}
 
 }
