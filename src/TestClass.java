@@ -31,6 +31,7 @@ public class TestClass {
 		System.out.println("modif dans classe 1 , alors que branche2 modifie classe2");
         System.out.println("pour tager");
         System.out.println("pour tager2");
+        System.out.println("pour tager3");
 	}
 
 }
