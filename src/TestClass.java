@@ -9,6 +9,7 @@ public class TestClass {
 		System.out.println("modif baranche2");
 		
 		System.out.println("modif 2 branche2");
+		System.out.println("modif 3 branche 2");
 	}
 
 }
