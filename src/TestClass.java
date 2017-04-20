@@ -12,10 +12,16 @@ public class TestClass {
 		
 		System.out.println("modif 2 branche2");
 		System.out.println("modif 3 branche 2");
+
 		System.out.println("aprèe merge");
 		
 		System.out.println("-----");
 		System.out.println("**********");
+
+		
+		System.out.println("modif 4 branche2");
+		System.out.println("modif 5 branche 2");
+
 
 	}
 
