@@ -4,7 +4,8 @@ public class TestClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("GIT");
-		System.out.println("SVN");
+		System.out.println("SVN"); 
+		System.out.println("modif entre temps sur master");
 	}
 
 }
