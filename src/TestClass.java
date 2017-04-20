@@ -22,7 +22,11 @@ public class TestClass {
 		System.out.println("modif 4 branche2");
 		System.out.println("modif 5 branche 2");
 		
+
 		System.out.println("modif sans pull");
+
+		//Modif sur le serveur
+//>>>>>>> branch 'master' of https://github.com/chiko72/hello-world.git
 
 
 	}
