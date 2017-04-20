@@ -7,6 +7,8 @@ public class TestClass {
 		System.out.println("SVN");
 		
 		System.out.println("modif baranche2");
+		
+		System.out.println("modif 2 branche2");
 	}
 
 }
