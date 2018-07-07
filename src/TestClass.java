@@ -36,6 +36,8 @@ public class TestClass {
         System.out.println("Ajout Ali git1");
         //Ali
         System.out.println("****");//
+        //--------------
+        System.out.println("ok");
 	}
 
 }
