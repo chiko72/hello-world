@@ -40,6 +40,8 @@ public class TestClass {
         System.out.println("ok");
         //alo
         //allo
+        //Ali commit alors qu'il y a eu entre temps
+        //Un commit de Mohamed sur ce fichier
 	}
 
 }
