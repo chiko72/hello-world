@@ -46,8 +46,6 @@ public class TestClass {
         //Ajout hmida
         //----------------
         //Ajout khammar
-        //frrr
-        ///
 	}
 
 }
