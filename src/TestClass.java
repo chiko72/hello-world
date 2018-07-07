@@ -42,6 +42,7 @@ public class TestClass {
         //allo
         //Ali commit alors qu'il y a eu entre temps
         //Un commit de Mohamed sur ce fichier
+        //ajout Larbi git 3
 	}
 
 }
