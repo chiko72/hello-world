@@ -32,6 +32,10 @@ public class TestClass {
         System.out.println("pour tager2");
         
         System.out.println("FSDFSDFS");
+        // Ajout Ali git 1
+        System.out.println("Ajout Ali git1");
+        //Ali
+        System.out.println("****");
 	}
 
 }
